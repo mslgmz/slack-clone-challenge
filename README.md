@@ -1,3 +1,5 @@
+# Live slack clone
+	[Go live](https://dreamit-1499541266085.web.app/room/YoF6lEMOwwpXIHBdgh6i)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
